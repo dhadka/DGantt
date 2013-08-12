@@ -1,8 +1,6 @@
 DGantt
 ===
 
-### About TSPLIB4J
-
 DGantt is a simple Gantt chart library for Java 1.6 or later.  It allows quick
 integration of both static and dynamic Gantt charts, and provides developers
 full control over the rendering and look & feel of the chart.  DGantt is licensed
