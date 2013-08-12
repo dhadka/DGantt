@@ -7,9 +7,9 @@ DGantt is a simple Gantt chart library for Java 1.6 or later.  It allows quick
 integration of both static and dynamic Gantt charts, and provides developers
 full control over the rendering and look & feel of the chart.  DGantt is licensed
 under the GNU Lesser General Public License, version 3.1 or later.
+[View the Javadoc documentation](http://dhadka.github.io/DGantt/).
 
 ![Screenshot of DGantt](screenshot.png "Screenshot of DGantt")
-
 
 Other Open Source Libraries
 ---
